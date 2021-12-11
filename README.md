@@ -19,6 +19,20 @@ this app provides detailed local forecast
 | https | [ http 0.13.4](https://pub.dev/packages/http) 
 | flutter_spinkit | [ flutter_spinkit: 5.1.0](https://pub.dev/packages/flutter_spinkit) 
 
+## App Demo
+
+![alt text](https://github.com/mashood100/weather-app-with-flutter/blob/master/images/ss1.jpg?raw=true)
+
+![alt text](https://github.com/mashood100/weather-app-with-flutter/blob/master/images/ss2.jpg?raw=true)
+
+![alt text](https://github.com/mashood100/weather-app-with-flutter/blob/master/images/ss3.jpg?raw=true)
+
+![alt text](https://github.com/mashood100/weather-app-with-flutter/blob/master/images/ss4.jpg?raw=true)
+
+![alt text](https://github.com/mashood100/weather-app-with-flutter/blob/master/images/ss5.jpg?raw=true)
+
+![alt text](https://github.com/mashood100/weather-app-with-flutter/blob/master/images/ss6.jpg?raw=true)
+
 
 ## API Reference
 
