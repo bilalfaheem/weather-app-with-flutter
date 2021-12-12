@@ -8,15 +8,17 @@ this app provides detailed local forecast
   the app provides the current temperature in Celsius,
    sunrise and sunset time according to city time zone.
 
-## Authors
-
-- [@mashood100](https://github.com/mashood100)
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
 [![flutter](https://badgen.net//badge/flutter/2.8/blue?icon=github)](https://github.com/flutter/flutter)
 
 [![DartSDK](https://badgen.net//badge/DartSDK/1.24.3/blue)](https://github.com/flutter/flutter)
+
+## Developer
+
+- [@mashood100](https://github.com/mashood100)
+
 
 
 ## Flutter Packages
