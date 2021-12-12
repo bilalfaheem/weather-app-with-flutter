@@ -11,6 +11,14 @@ this app provides detailed local forecast
 ## Authors
 
 - [@mashood100](https://github.com/mashood100)
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+
+[![flutter](https://badgen.net//badge/flutter/2.8/blue?icon=github)](https://github.com/flutter/flutter)
+
+[![DartSDK](https://badgen.net//badge/DartSDK/1.24.3/blue)](https://github.com/flutter/flutter)
+
+
 ## Flutter Packages
 
 | Packages             | versions                                                                |
