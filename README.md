@@ -20,19 +20,20 @@ this app provides detailed local forecast
 | flutter_spinkit | [ flutter_spinkit: 5.1.0](https://pub.dev/packages/flutter_spinkit) 
 
 ## App Demo
-
-![alt text](https://github.com/mashood100/weather-app-with-flutter/blob/master/images/ss1.jpg?raw=true)
-
-![alt text](https://github.com/mashood100/weather-app-with-flutter/blob/master/images/ss2.jpg?raw=true)
-
-![alt text](https://github.com/mashood100/weather-app-with-flutter/blob/master/images/ss3.jpg?raw=true)
-
-![alt text](https://github.com/mashood100/weather-app-with-flutter/blob/master/images/ss4.jpg?raw=true)
-
-![alt text](https://github.com/mashood100/weather-app-with-flutter/blob/master/images/ss5.jpg?raw=true)
-
-![alt text](https://github.com/mashood100/weather-app-with-flutter/blob/master/images/ss6.jpg?raw=true)
-
+<p align="center">
+  <img src="https://github.com/mashood100/weather-app-with-flutter/blob/master/images/ss1.jpg" width="240" title="hover text"> 
+   <img src="https://github.com/mashood100/weather-app-with-flutter/blob/master/images/ss2.jpg" width="240" title="hover text"> </p>
+ 
+ <p align="center"> 
+ <img src="https://github.com/mashood100/weather-app-with-flutter/blob/master/images/ss3.jpg" width="240" title="hover text">
+   <img src="https://github.com/mashood100/weather-app-with-flutter/blob/master/images/ss4.jpg"  width="240" title="hover text">
+ </p>
+ <p align="center">
+   <img src="https://github.com/mashood100/weather-app-with-flutter/blob/master/images/ss5.jpg" width="240" title="hover text">
+ <img src="https://github.com/mashood100/weather-app-with-flutter/blob/master/images/ss6.jpg" width="240" title="hover text">
+  
+ 
+</p>
 
 ## API Reference
 
